@@ -1,0 +1,26 @@
+[
+    { 
+        "testInput": "asdfa"
+    },
+    { 
+        "testInput": "111fa"
+    },
+    { 
+        "testInput": "!@#$%"
+    },
+    { 
+        "testInput": "111111"
+    },
+    { 
+        "testInput": "222222"
+    },
+    { 
+        "testInput": "333333"
+    },
+    { 
+        "testInput": "444444"
+    },
+    { 
+        "testInput": "555555"
+    }
+]

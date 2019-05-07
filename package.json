@@ -1,0 +1,15 @@
+{
+  "name": "testask",
+  "version": "1.0.0",
+  "description": "Juan Pablo Legorburu test task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JPL",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "glace-js": "^2.5.9"
+  }
+}

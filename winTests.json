@@ -1,0 +1,122 @@
+[
+    { 
+        "testInput": "11100",
+        "expectedCoins": "60"
+    },
+    { 
+        "testInput": "01110",
+        "expectedCoins": "60"
+    },
+    { 
+        "testInput": "00111",
+        "expectedCoins": "60"
+    },
+    { 
+        "testInput": "11110",
+        "expectedCoins": "80"
+    },
+    { 
+        "testInput": "01111",
+        "expectedCoins": "80"
+    },
+    { 
+        "testInput": "11111",
+        "expectedCoins": "100"
+    },
+    { 
+        "testInput": "22200",
+        "expectedCoins": "120"
+    },
+    { 
+        "testInput": "02220",
+        "expectedCoins": "120"
+    },
+    { 
+        "testInput": "00222",
+        "expectedCoins": "120"
+    },
+    { 
+        "testInput": "22220",
+        "expectedCoins": "160"
+    },
+    { 
+        "testInput": "02222",
+        "expectedCoins": "160"
+    },
+    { 
+        "testInput": "22222",
+        "expectedCoins": "200"
+    },
+    { 
+        "testInput": "33300",
+        "expectedCoins": "180"
+    },
+    { 
+        "testInput": "03330",
+        "expectedCoins": "180"
+    },
+    { 
+        "testInput": "00333",
+        "expectedCoins": "180"
+    },
+    { 
+        "testInput": "33330",
+        "expectedCoins": "240"
+    },
+    { 
+        "testInput": "03333",
+        "expectedCoins": "240"
+    },
+    { 
+        "testInput": "33333",
+        "expectedCoins": "300"
+    },
+    { 
+        "testInput": "44400",
+        "expectedCoins": "240"
+    },
+    { 
+        "testInput": "04440",
+        "expectedCoins": "240"
+    },
+    { 
+        "testInput": "00444",
+        "expectedCoins": "240"
+    },
+    { 
+        "testInput": "44440",
+        "expectedCoins": "320"
+    },
+    { 
+        "testInput": "04444",
+        "expectedCoins": "320"
+    },
+    { 
+        "testInput": "44444",
+        "expectedCoins": "400"
+    },
+    { 
+        "testInput": "55500",
+        "expectedCoins": "300"
+    },
+    { 
+        "testInput": "05550",
+        "expectedCoins": "300"
+    },
+    { 
+        "testInput": "00555",
+        "expectedCoins": "300"
+    },
+    { 
+        "testInput": "55550",
+        "expectedCoins": "400"
+    },
+    { 
+        "testInput": "05555",
+        "expectedCoins": "400"
+    },
+    { 
+        "testInput": "55555",
+        "expectedCoins": "500"
+    }
+]
